@@ -90,17 +90,7 @@ Make sure to never commit your `.env`—it’s included in `.gitignore` by defau
 | Firebase Python Functions Setup Guide  | Deploy Python functions on Firebase   | <a href="https://docs.google.com/document/d/1yn5cE5zuNBFpskh_KZU5BThA-fqcZSLPJefLUYTx9Wo/edit?usp=sharing" target="_blank" rel="noopener">Python Functions Guide</a> |
 | App Security Setup Guide               | Best practices for securing your app  | <a href="https://docs.google.com/document/d/1FLVqdPjGcBUejLJWjHdWERMIQBaszA3EilOngS60dCE/edit?usp=sharing" target="_blank" rel="noopener">App Security Guide</a>   |
 
----
 
-# 🙌 Follow Me
-
-Stay up-to-date with new tutorials, tips, and behind-the-scenes:
-
-- **X (formerly Twitter):** [@corbin_braun](https://x.com/corbin_braun)  
-- **Instagram:** [@corbin_braunlich](https://instagram.com/corbin_braunlich)  
-- **YouTube:** [Corbin_Brown](https://www.youtube.com/channel/UCJFMlSxcvlZg5yZUYJT0Pug)  
-
----
 
 ## ☕ About Builder’s Console Log
 
